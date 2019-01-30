@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "Some functions operating on numbers.",
+    "summary": "Functions operating on numbers.",
     "repository": "https://github.com/thought2/elm-numbers.git",
     "license": "BSD3",
     "source-directories": [
